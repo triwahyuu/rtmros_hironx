@@ -36,3 +36,9 @@ msg/_.*\.py$
 
 # Catkin custom files
 CATKIN_IGNORE
+
+
+kawada-hironx*
+
+__pycache__/
+*.py[cod]
